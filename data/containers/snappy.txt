@@ -1,0 +1,2262 @@
+qucs-spice
+gitl
+Crystal
+sc-jsonnet
+Boxy SVG
+productivity-timer
+InfluxDB
+GoReleaser
+Scripts for Ubuntu developers
+XML Toolkit from the GNOME Project
+E-tools
+anxing
+snapcraft
+Multipass
+OpenBoardView
+uuidfmt
+rubber-band-async
+qelectrotech
+cutelog
+icecream-sundae
+scc
+origin-routing-machine
+story
+fx
+guvercin
+Labeler
+Bash Language Server
+Go
+Grafana
+CircleCI Local CLI
+hcloud
+ztunes
+MQTT Explorer
+Commander X16 Emulator
+Multipass
+snapd-hacker-toolbelt
+sloth-brandonrozek
+VisualG
+notepadqq
+dbeaver-ce
+Gaucho
+Firecamp
+Numpy viewer
+direnv
+skaffold
+Leafpad
+Postbird
+Eric python IDE
+BrightScript 2D API Emulator
+egmde-confined-desktop
+tpad
+kube-commander
+Manala
+cfn-lint-oliwer
+adtl
+logcat-colorize
+bpftrace
+Atom
+kafkactl
+getenv
+helm
+etcd-manager
+paradrop-agent
+fuzzit
+firestr
+arighi-virtme
+hostctl
+Cacher
+Apache NetBeans
+HTTPie
+calcmy
+Scratux
+miggy-migration
+crossbar-pypy
+Wing Pro 7
+hexyl
+Qterminal-snap (unofficial)
+Idris 2
+dfix
+Bosh-Bootloader CLI
+Puppetry
+Mattermost Desktop
+julia-mrcinv
+Ubuntu Release Info
+mkdocs-carroarmato0
+Nim
+Recollectr
+superproductivity
+Launchpad tooling for Git
+Eclipse
+bump
+QML Creator
+Nim Documentation
+snipcli
+RubyMine
+distrobuilder
+tmcbeans
+Git Burn
+Nordic Thingy52 EdgeX Device Service
+Color Picker
+Titania X3D Editor
+Apache Ant
+muffet
+cfn-format
+PyCharm Pro
+valgrind
+NodeSnapWeb (nsw)
+gamecake
+D Completion Daemon
+Android SDK Manager
+svlint
+ovs-stat
+austin
+dfmt
+Nim LTS 1.0.x
+tika-server
+ChiSurf
+OOP Exercises
+faultstat
+kotlin-native
+tango
+LXD
+ruby
+remarkable
+Linode CLI
+PyCharm CE
+YAML Language Server
+Project Jupyter
+amberframework
+gforth-mtrute
+kompare
+icdiff
+Gisto
+gomodrun
+uConfig
+kubectl
+My Awesome App.
+HelloWorld GUI
+IDEA Community
+bzip
+P3X Redis UI
+dvc
+Packet Sender
+changelog
+MiniZinc
+bin2src
+Visual Studio Code
+Epictask
+genpw
+yq
+Leo Editor
+pngquant
+remarshal
+large-pcap-analyzer
+asdf
+ringcentral-webhook-consumer
+Visual Studio Code - Insiders
+Colorpicker
+Tiled
+enonic
+Poedit 2
+juju-crashdump
+Ubuntu ISO Download
+terraform
+osddm
+IDEA Ultimate
+bower
+sqlitebrowser-casept
+qlik-corectl
+git-ubuntu
+mockoon
+Ubuntu Mate Launchpad
+lefthook
+julia
+ubuntu-make
+ccache — Compiler cache (UNOFFICIAL)
+Brackets
+letitgo
+cass
+cw-sh
+Clean Filter for SVG
+starship
+Rider
+git-standup
+The XSLT C library for GNOME(UNOFFICIAL)
+vue-electron-test
+Lepton
+Dunner
+ripping
+Umbrello
+lsd
+netvirt-agent2
+Android Studio Canary
+libfolding
+CLion
+k9s
+Netron
+Notepad-Plus-Plus (WINE)
+dmd
+bayes
+CCLite
+Ubuntu Bug Triage
+Sublime Merge
+dub
+juju
+Glade
+Wing Personal 7
+mycli
+WPE WebKit Libraries
+The FFmpeg Integration Stage Snap(GPLv3)
+Karuta HLS Compiler
+ObjectBox with EdgeX
+pixelorama
+deploy-cli
+serveo
+bash-brlin
+webant-apigen
+mir-test-tools
+PSPad (WINE)
+sqlitebrowser
+cppcheck
+task
+AppStream Generator
+micro
+Arduino IDE
+mOAuth
+opendylan
+CMake
+git-cola
+Nim Nightly
+AiLibrary
+ccls C/C++/ObjC Language Server
+buzyteam
+git-fame
+Makgam
+VS Codium
+git-machete
+testmace
+nemu
+graviton
+popeye
+git-repo
+crossbar
+couchdb
+Microsoft Azure Storage Explorer
+qxmledit
+Postman
+GRV
+dscanner
+The Things Network Stack for LoRaWAN
+Apache Groovy Programming Language
+Neovim
+protobuf
+Curv
+Altair GraphQL Client
+powershell
+gitea
+opcua-client
+humioctl
+beautysh
+Qt Webengine 5.13
+robo3t-snap
+gh
+Beekeeper Studio
+uuid-tool
+zworkbench
+Natron
+Pynsource - UML tool for Python
+DataGrip
+egmde
+Space
+GoLand
+tqdm
+clash
+RedisDesktopManager
+Zig
+test-data
+libspot
+Webots
+Nordic Thingy52 Dev Kit
+oq
+Synthesijer - A Java-based HLS compiler
+LP Build Snap
+pre-commit
+prcs-vx68k
+Insomnia
+kernelscan
+CQtDeployer
+micropython
+Deepkit
+.NET Core SDK
+Icecream Sundae
+.NET Runtime 3.1 (LTS)
+LibrePCB
+LIKO-12
+Android Studio
+Wing 101 v7
+WebStorm
+Alpha App
+fields
+emacs-tealeg
+node
+electerm
+GitKraken
+entropic-ds
+bcrypt-tool
+knctl
+GNU Emacs
+fail-tester
+sqlc
+bcc (BPF Compiler Collection)
+Text Editor
+Kotlin
+gelf-pretty
+Zenity (UNOFFICIAL)
+ffmpeg-integration-lgpl
+xpd
+bitwise
+dynocsv
+crtlx
+cdbc
+pyls
+PyCharm EDU
+cobalt
+SQuirreL SQL
+cpp-dependencies
+orbit
+hub
+shell2http
+nift
+jdTextEdit
+exercism
+Node-RED
+PhpStorm
+Erlang/OTP
+cevelop
+sfxr
+vapor-master
+hello-3sztof
+ePSXe
+gladupe
+Swell Foop
+Ludo
+kgoldrunner
+GNOME Chess
+tic-tac-toe
+OpenRA
+Iagno
+kiriki
+kjumpingcube
+C&C: Tiberian Sun (WINE)
+Shattered Pixel Dungeon
+spelunky
+gdlauncher
+gnome-hitori
+Rigs of Rods
+SuperTux
+kmines
+den
+OpenTyrian
+Widget Draughts
+System Syzygy
+blinken
+xbill
+Duck Marines
+2048 - Puzzle game
+Urban Terror
+knavalbattle
+tetris-thefenriswolf
+pingus-game
+LIKO-12
+freeorion-agrrr3
+knetwalk
+stacker
+InTheCube
+OGRE Sample Browser
+Yaba Sanshiro
+stuntrally
+C&C: Red Alert 2 Yuri's Revenge (WINE)
+kigo
+Lightsoff
+DOSBox-X
+NXEngine Evo
+kollision
+VCMI
+minecraft-server-jdstrand
+RuneScape
+mc-server-installer
+epicpinball
+IceMaze
+TrackMania Nations Forever
+nethack
+Tales of Maj'Eyal
+ScummVM
+teeworlds
+Ion Digital Currency (Official release)
+Pixels
+Star Ruler 2
+love
+MAME
+BombSquad
+codebreakers
+kshisen
+Abstract Games
+Minecraft Installer
+Industrial Craft 2 (IC2)
+GNOME Sudoku
+Mr. Rescue
+bash-shell-rpg
+Bamboozled - The Game (unofficial build)
+explode-bricks
+volleyball2d
+Moonlight
+TrenchBroom
+bzflag-tjhanson
+roll
+kspaceduel
+Jahresarbeit 2003
+Open Surge
+Suspended Sentence
+Open Karaoke Producer
+pin-town
+pokerth
+pigami
+spider-solitaire
+Selfless Heroes
+JGalaxian
+Foobillard-plus
+GOG Galaxy
+Tali
+solitaire
+Open Syobon Action (オープンしょぼんのアクション)
+Minetest
+cataclysm
+Mari0 (UNOFFICIAL)
+CorsixTH
+bubble-pop
+Eternal Lands MMORPG
+chameleon
+CHIP-8 Emulator
+freeorion
+PowTTY
+kubrick
+SuperTuxKart
+ksnakeduel
+klickety
+Solarus
+balloon-pop
+LambdaRogue: The Book of Stars
+Warzone 2100
+ksudoku
+gubbe
+OpenDungeons
+Mari0: CE (UNOFFICIAL)
+picmi
+Caprice32 Amstrad CPC emulator
+killbots
+OBS Studio
+savagexr
+Dwarf Fortress Classic
+RetroArch
+Dwarf Fortress
+Prehistoric Defense
+oh my giraffe
+glest
+openosrs
+Morpion
+Snipes
+hanoi-tower
+reversu
+Love2d
+Xonotic
+Jaba MUD Client
+OS RuneScape Launcher
+ksquares
+bovo
+ksirk
+citra-mts
+terminalworm
+Micropolis
+The Climate Trail
+connect4
+game-2048
+kbounce
+Open Jedi Knight
+Lone Wolf
+kmahjongg
+level9
+C&C: Red Alert (WINE)
+squarehead
+AG Subway Simulator
+codenamelt
+GNOME Taquin
+gnuchess
+CRRCSim
+Cherry Dice
+konquest
+trigger-rally-ogra
+Hedgewars
+GNOME Klotski
+Cyphesis, Worldforge MMORPG server
+SameBoy
+war3keys
+Commander X16 Emulator
+freecell-solitaire
+kreversi
+BZFlag
+M.A.R.S. - a ridiculous shooter
+kfourinline
+KPatience
+Heads or Tails Multiplayer DexGames
+vitetris
+Legends of Runeterra (WINE)
+chocolate-doom-jdstrand
+mahjong-game
+slitherling
+mgba
+Mindustry
+GNOME Tetravex
+FlightGear
+GZDoom
+GNOME 2048
+sudoku-game
+k-sudoku
+RuneLite
+minesweeper
+the-traveling-fox
+wyvern
+azimuth
+kblackbox
+klines
+ZZT
+CCLite
+randomit
+kapman
+WolfenDoom: Blade of Agony
+kbreakout
+mir-kiosk-scummvm
+Reicast
+The Powder Toy
+Quadrapassel
+Discord
+kanagame
+GNOME Mines
+Mad Fish
+Neverbore Picross
+Mutable Mamba
+PrBoom+ (fork)
+Eureka DOOM Editor
+lapin
+QJoyPad
+ags
+Snake on the chase
+Ember MMORPG client
+sc-controller
+Space Purge
+SDLPoP
+GNOME Robots
+minecraft-launcher-ot
+powwow
+GNOME Nibbles
+Bee Run
+Five or More
+hanoi-towers
+lafopl
+visualboyadvance-m
+gamecake
+Linux Tycoon
+kanagram
+Ascii Patrol
+palapeli
+ktuberling
+Cookie Clicker
+Collision
+MUME Mapper
+kblocks
+GNOME Mahjongg
+Veloren
+katomic
+mki3dgame-snap
+granatier
+Live For Speed (WINE)
+Solvitaire
+bomber
+sparky
+viber-mtd
+Rocket.Chat Desktop
+zulip
+firestr
+communecter
+collabee
+Cyph
+Hyperspace Desktop
+Fractal
+Twist · Team Communication
+Flock
+Signal Desktop
+vizd
+Instagraph
+whatsdesk
+Bolls
+Prospect Mail
+cordless
+ElectronIM
+Convos
+Jami
+zoom-client
+Teams for Linux
+vowlink
+sweetfish
+znc-arubislander
+WALC - unofficial WhatsApp Linux Client
+twinux
+The Lounge
+irssi
+Tootle
+Wickr Pro
+Matterbridge
+threemadeskaqua
+electronic-wechat
+Gitter Desktop
+slack-term
+Wire
+TheDesk
+Axolotl -  A crossplatform signal client
+yakyak
+Patchwork
+zalo-unofficial-2020
+Caprine
+quassel-webserver
+instagramport
+whalebird
+ZeroNet
+Wordpress.com Desktop
+Skype
+konversation
+college-mastodon
+eloleo
+Facebook messenger port
+Discord
+hnterm
+TamTam
+toto
+Transporter
+Cawbird Twitter Client
+Session Desktop
+Sengi
+Istekram
+Twitterr
+ElectronMail
+FluffyChat
+latch
+dissenter-browser
+Plume
+Wrapup
+tunnelgo
+IRCCloud
+Mixin Messenger
+Kesty Whatsapp
+Mail.ru Agent
+Slack
+jdim
+Wickr Me - Private Messenger
+mikutter
+Potato
+Wickr Enterprise
+viber-unofficial
+Mattermost Desktop
+telegram-cli
+Firecamp
+Count It
+Quelea
+Skype
+Teams for Linux
+Mutt
+angstrom
+Sticky Notes
+Math Cracker
+Tusk
+superproductivity
+GNU Emacs
+GNOME Calendar
+WPS Office Multi-Language
+Recollectr
+Blix
+Text Editor
+Overleaf Desktop
+Rambox Pro
+laidout
+OpenTodoList
+IRCCloud
+qt-todo
+cleanpy
+todoist-thibaut
+Tree Mind Map
+Glate - Google Translator and TTS
+Evince
+Domotz Pro Agent
+jotit
+Start & Doc
+Notable
+Gaucho
+Easy File Organizer
+Wekan
+Protogrid
+timeline
+wyzepal
+Inkdrop
+Lightning Talk Gong
+cherrytree
+Rocket.Chat Desktop
+(UNOFFICIAL) nano
+Signal Desktop
+Mail.ru Agent
+Pendulums
+Bitwarden
+Skrifa
+XMind
+theloungeirc
+Celtx
+ONLYOFFICE Document Server
+protonmail-desktop-unofficial
+hiri
+Zenkit
+managetime
+Taskade - Team Tasks, Notes and Workflow
+google-suggests
+Bitrix24 (Beta)
+Heimer
+Cloudtag
+Open Drive (Google Drive Client)
+Flock
+Contexted
+WPS Office Suite - MTS
+Xournal++
+Beaker Browser
+Gisto
+Snippet Pixie
+LaTeXML
+Anki - unofficial
+termdown
+Standard Notes
+unifonter
+Registrac
+unofficial-webapp-office
+mackup
+omegat-cat
+Opera
+Mechvibes
+Oversetter
+servy
+md2pdf-webserver
+ONLYOFFICE Desktop Editors
+viacep
+BreakTimer
+tncc-script
+loanbook
+giganotes
+bump
+WPS Office - All languages - No internet
+bunqDesktop
+smartbox-app
+sway (experimental)
+hamster-snap
+Large Files Finder
+ClinicaFX
+Okular
+bottle
+Postbird
+lachesis
+Auryo
+dotdrop
+PDF Mix Tool
+transmission-daemon-simosx
+Polar - Manager for books, PDFs and web
+rst2pdf
+SimpleScreenRecorder (UNOFFICIAL)
+ascii-clock
+TypeApp Mail
+teamworkchat
+Slack
+smartstock
+large-pcap-analyzer
+teamtime
+panorama
+Prospect Mail
+Speedy Duplicate Finder
+ProjectLibre
+TelemetryTV Media Player
+changelog
+runlet
+pomotroid
+Rambox CE
+Mailspring
+k6
+Singlebox
+Ghost Desktop
+doorlin
+JDownloader 2
+O20
+Facebook messenger port
+fman
+barrier
+freeman
+LXQt-l10n-snap (unofficial)
+Midori Web Browser
+Waiter Restaurant POS Bar Point of Sale
+Scrumpy
+Taskbook
+Organize My Files
+BlueMail
+Notes
+GNOME Web
+Colibri
+cyramix
+marp-cli-carroarmato0
+Symphytum
+Telegram Desktop
+Mazu Editor
+Multipass
+Demo saravanan application - done, done
+inoxision-webclient
+letsdo
+zzBots
+FreeMind
+Hugo
+nax by Monax
+LibreOffice
+bzoing
+QOwnNotes
+productivity-timer
+Freeplane
+ThunderDocs
+collabee
+FeatherPad (UNOFFICIAL)
+tunnelgo
+remmina
+Parcel
+Winds - RSS & Podcasts
+notepadqq
+scrape
+Evernote Web Client
+mu
+MicroPad
+(UNOFFICIAL) nano (Strict Confinement)
+FromScratch
+Taskline
+Imaginary Teleprompter
+clari3d-lite-64
+Empoche
+qts3browser
+Wire
+latch
+md2pdf-client
+clockify-cli
+P3X OneNote
+barrier-kvm
+freedcamp
+icecream-sundae
+drawio
+SmartCalc
+Subtitld
+Ora
+onenote-desktop
+terraform-nightly
+espanso
+Ao
+Plaid
+ExpenseSentry
+iCloud for Linux
+fasd
+Leo Editor
+Translatium
+LXQt-Organizer-snap (unofficial)
+wps-office
+Twist · Team Communication
+jdTextEdit
+Fidus Writer
+zulip
+icloud-notes-linux-client
+ElectronMail
+Firefox
+arcli
+pray
+gitl
+task-creator
+Chromium
+Gmail Desktop
+dbtarzan
+NordPass® Password Manager
+Session Desktop
+Simplenote
+banana-accounting
+workbase-server
+doh-simosx
+monexec
+pi-summation-go
+Speedy Duplicate Finder
+vobsub2srt
+homeserver
+passivetotal-ruby
+Pendulums
+proton-wallet
+sshoot
+Pigo - Face detection library
+surl
+bcc (BPF Compiler Collection)
+printtree
+music-kitten
+Pall - Color Picker
+logcat-colorize
+Blur Network Command-Line Tools
+Teatime
+qxmledit
+vht
+BrightScript 2D API Emulator
+b1freearchiver
+AppStream Generator
+gelf-pretty
+google-suggests
+lnav
+YAML Language Server
+GDAX Trading Bot
+surc
+Journey - Diary, Journal
+wdos
+vokoscreenNG
+snipcli
+(UNOFFICIAL) nano (Strict Confinement)
+asciinema
+wordnet2
+SatHelperApp
+Notes
+youtubeport
+INADYN
+Clean Filter for SVG
+terminology
+Google Photos Sync
+Sensors Unity
+DOSBox-X
+BackuPy
+mycli
+ngrok
+mackup
+Neovim
+ccache — Compiler cache (UNOFFICIAL)
+Rels
+jtomsa-prometheus
+hollywood
+Bitwarden
+kube-commander
+Subliminal Subtitles
+Blur Network Graphical Wallet
+Airtame Application
+LPrint
+gnome-firmware
+suligap-python3-qrcode
+CQtDeployer
+Bosh-Bootloader CLI
+(UNOFFICIAL) nano
+sc-controller
+bosh-cli
+Personal WayBack Machine
+dupliseek
+Scans to PDF
+procs
+uuid-tool
+SMonitor
+ZeroNet
+waifu2x-ncnn-vulkan
+Transporter
+qFSView
+Contractor Tax Calculator
+proxyproxy
+Color Picker
+Apache Ant
+b2
+energy-tools
+Authy
+PodPublish
+GHex
+Packet Sender
+aamath
+cool-retro-term
+Links
+nino
+WALC - unofficial WhatsApp Linux Client
+GNOME Characters
+raspberrymonitor
+HelloWorld GUI
+BingWall - Bing wallpaper of the day
+cURL(with Metalink support) (UNOFFICIAL)
+LosslessCut
+sFTP Client
+croc
+cheat
+ascii-clock
+entropic-ds
+multipass-sshfs
+Mumble
+uuidfmt
+bash-brlin
+nift
+Ubuntu Release Info
+greenclip-mhcerri
+Snowflake SSH/SFTP client
+NodemailerApp
+bin2src
+darkchat
+ausweisapp2-ce
+cells-sync
+serialporttool
+sqlitr
+BitShares Wallet
+restic
+xseticon
+natcloud
+iot-thingy52
+Hardware Probe
+FeatherPad (UNOFFICIAL)
+WinSnap (WINE)
+device-config-demo
+terminalpp
+codedoc
+k6
+croftify
+GNOME System Monitor
+twinux
+Start & Doc
+arighi-virtme
+panorama
+dvc
+filebot
+Bitrix24 (Beta)
+FIGlet
+HTTPie
+Large Files Finder
+Lightning Talk Gong
+ftpscan
+Puppetry
+ncdu
+Snap Store Utility
+ElectronIM
+supertpv-print-server
+vault
+wtf-tui
+opy
+Déjà Dup Backup Tool
+Network Canvas
+Info Center
+hello-berlinski
+Paper Crypto Wallet Generator Offline
+teleconsole
+slcli
+hostctl
+dav1d
+jcli
+Dunner
+Smart File Renamer
+lxi-tools
+mkdocs-carroarmato0
+sway (experimental)
+pac-vs
+fades
+skip
+fast
+GtkHash
+Audio Recorder (UNOFFICIAL)
+gphotos-cli
+Ubuntu ISO Download
+hnterm
+websters1913
+ripping
+tango
+fwupd
+WallpaperDownloader
+Ubuntu Bug Triage
+rclone
+git-fame
+rust-bf
+youtube-dl
+svg2pts
+texpackhelper
+fman
+XML Toolkit from the GNOME Project
+clipaste
+Gamblify Verifier
+GNOME Contacts
+crab
+tinyprograms
+Database Preservation Toolkit
+hexyl
+yandex-weather-cli
+Haste Server
+wms
+finfetch
+dogsay
+espanso
+lms
+JDownloader 2
+Waiter Restaurant POS Bar Point of Sale
+glances
+raspberry-pi-node-gpio
+Termius
+angstrom
+cass
+Subtitle Edit
+bzip
+kubu
+UBports Installer
+jdLangTranslator
+Stubb
+ssh tunnel with build in ssh server
+Plaid
+Epictask
+guiscrcpy
+Sublime Merge
+gvm
+FileZilla (UNOFFICIAL)
+stress-ng
+iCloud for Linux
+tesscam
+Googler
+Sticky Notes
+Network Canvas Architect
+buzyteam
+ksuperkey
+GNOME Logs
+direnv
+gallery-dl
+Snippet Pixie
+ScreenGrab-snap (unofficial)
+OpenCorsairLink
+rst2pdf
+wott-agent
+Notepad3 (WINE)
+xmlstarlet
+Empoche
+GNOME Calculator
+GNOME Clocks
+mapscii
+Raspberry Pi Imager
+P3X Redis UI
+communitheme
+xsamkit
+Mini Diary
+Rambox Pro
+Kimitzu
+Audio Looper
+fzf-carroarmato0
+sqlmap-cli
+Singlebox
+auto-cpufreq
+yamlfmt
+hranoprovod-cli
+scrape
+getenv
+tio
+Salebox POS
+P7Zip - Desktop
+Halo - The Weather App
+passwordlocker
+beautysh
+Mazu Editor
+µTorrent (WINE)
+ssh-audit
+git-ubuntu
+docfetcher
+rlinks
+Caire
+Munadi
+TdhCad
+Bulk URL Opener
+Burd IRC Client [Unsupported]
+Qterminal-snap (unofficial)
+Ogre Mesh Viewer
+s6e
+Leafpad
+icdiff
+idiff-patch
+onefetch
+lagoon-cli
+oq
+arqma-electron-wallet
+common-licenses
+gubbe
+anxing
+LXQt-Archiver-snap (unofficial)
+faultstat
+Evernote Web Client
+Peerflix
+Matterbridge
+vManager
+Simple Budget
+Snap Store Proxy
+engauge-digitizer
+Ara File Manager
+Notable
+cleanpy
+VirtualXT
+rust-keylock-ui
+VLibras Desktop
+bundle-lint
+ethr-johanburati
+Freeplane
+Bitcoin Confidential
+pdftk
+Hardware Sensors Indicator
+ssdp
+tbinge
+http-to-https
+pngquant
+The Tree Command for Linux
+Disk Space Saver
+Zenity (UNOFFICIAL)
+peco
+ares
+fields
+Snap Store
+i2pbrowser
+ark
+pulsemixer
+Fuzzy Repo Finder
+Lithiio Electron
+git-tidy
+Wrap
+stunnel5
+nmap
+outliner
+MakeMKV
+fluent-amqp
+marketo-monkey
+Clouds Windows 10 VM
+ksnip
+rpi-userland-arif-ali
+bissetii
+Taskade - Team Tasks, Notes and Workflow
+scantailor-advanced
+Quelea
+helm-snap
+orbit
+unifonter
+autoskola-free6
+ponymix
+termshark
+doorlin
+Kesty Whatsapp
+s3link
+Yubico Authenticator
+ttimer
+friendsreferee
+PDF Mix Tool
+Voxelizer
+mp3gain
+IPFS Desktop
+Cherry Dice
+Webengine App
+mu
+bzoing
+bledetect
+1password-linux
+tika-app
+KeePassXC
+Glate - Google Translator and TTS
+lanmiaodesktop
+fuzzit
+usb-reset
+Magnus
+tugger
+qv2ray
+Remote Touchpad
+Bitwarden CLI
+owwatcher
+bigberry
+gosec
+ponysay
+Easy Disk Cleaner
+buildnotify-test
+Mockuuups Studio
+gotop
+tqdm
+theloungeirc
+htop
+Sosumi
+GhostCloud
+terraform-snap
+snapdiff
+clash
+Spek
+monolith
+dissenter-browser
+cw-sh
+fennec
+qvge
+Pick
+trello-cli
+Maps
+yorokobi
+openstackclients
+cmadison
+Cloudtag
+chezmoi
+prometheus-grok-exporter
+mindi
+volttron
+shell2telegram
+stardate-snap
+forkstat
+simplescreenrecorder
+serve
+htmldoc
+Netcalc
+Open DVD Producer
+cpp-dependencies
+frr (FRRouting)
+mdless
+bigfile
+∅
+booster
+diagon
+jdReplace
+logsync-james
+clpeak
+Word Salad
+wormhole
+mcm-notifier
+jo
+uhttpd
+Phockup
+unrpa
+Drawing
+bpftrace
+Network Canvas Server
+cpustat
+gdimmer
+GNOME Font Viewer
+Translatium
+Rider
+duplicity
+Rambox CE
+wordnet2+websters1913
+Bash Language Server
+Diet Clock
+pngcrush
+SubMix
+test-incuvers-iot-jy
+bcrypt-tool
+Android SDK Manager
+PSPad (WINE)
+scrcpy
+zipstream
+getopenfec
+ttyplot
+munge
+SmartCalc
+ffsend
+QR Code Generator
+ip6fmt - format IPv6 addresses
+thefuck
+LyricPad
+dataclerk
+BreakTimer
+freeman
+wyvern
+s-search
+murg
+Wonderwall - Wallpaper Manager
+fkill
+html2data
+biblio
+FLIF - Free Lossless Image Format
+Video Downloader
+zoom-client
+gost
+bbk-cli
+lablie
+sonarr
+ksnip
+mjpg-streamer
+CCTV Viewer
+FLIF - Free Lossless Image Format
+HDRView
+homeserver
+mountain-tapir
+Eye of GNOME
+pngcrush
+tvheadend
+v4l2-rtspserver
+DSSIM
+SimpleScreenRecorder (UNOFFICIAL)
+mpv-casept
+OpenToonz
+LiveTuner
+Olaris
+krop
+vidiot
+fallen-leaves
+gallery-dl
+scrcpy
+digikam
+ScreenCloud
+imgViewOn
+OpenResizer
+OBS Studio
+mpv
+GTK+ UVC Viewer (UNOFFICIAL)
+OpenToonz - Morevna Edition
+kdenlive
+LosslessCut
+capturegrid4
+Pigo - Face detection library
+Gifski
+mkvtoolnix-jz
+IrfanView (WINE)
+VidCutter
+GNU Image Manipulation Program
+directpdf
+vokoscreenNG
+matroska-tools
+Phockup
+movian
+Celtx
+Subtitld
+MakeMKV
+acestreamplayer
+FFmpeg
+Ampare PDF To Image
+gphotos-cli
+tbinge
+rview
+Google Photos Sync
+dupliseek
+rphoto
+dav1d
+Shotcut
+LBRY
+ultimo
+Open DVD Producer
+handbrake-jz
+SmartScreen
+ScreenGrab-snap (unofficial)
+Glimpse
+syncplay
+Caire
+Imagenes
+kube-apiserver
+jujuna
+shadowsocks
+oai-ue
+quassel-webserver
+tmate-edge
+query-exporter
+EdgeX InfluxDB Proxy Server
+cdk-addons
+postgresql10
+mosquitto
+ONLYOFFICE Document Server
+telegraf
+fbostudios
+etcd-manager
+postgresql-pgbouncer
+darkchat
+oai-hss
+flow
+tika-server
+Microsoft Azure Storage Explorer
+h2static
+heroku
+mtproxy
+postgresql95-pgpool2-35
+vht
+popeye
+canonical-livepatch
+redirect-to
+Cloud Unpacked DynDNS
+postgresql95-pgpool2-36
+node-exporter
+znc-arubislander
+outliner
+ser2net-plars
+gobetween
+mOAuth
+InfluxDB
+cfn-lint-oliwer
+yq
+workbase-server
+NodeSnapWeb (nsw)
+MAAS (Metal as a Service)
+openstackclients
+autossh
+helm
+cURL(with Metalink support) (UNOFFICIAL)
+SABnzbd
+teresa-cli
+qgsrepo
+terminology
+loggly-shipper
+etcd
+bsrally
+cells-sync
+Little Orange Display
+tapyrus-signer
+fluxctl
+janus-plus-gstreamer-plugin
+LXD
+prometheus
+AWS IoT Greengrass
+getopenfec
+dynocsv
+vapor-master
+multipass-sshfs
+cfn-skeleton
+rtsp-test-server
+passprox
+cloudy.sh client application
+parsec
+Docker
+Tidal Tools
+syncplay
+kube-scheduler
+unixbench
+kubeadm
+Peerflix
+Subsonic
+postgresql93
+Snowflake SSH/SFTP client
+bfe
+Factorio Headless Server
+nftables-pk
+postgresql
+servy
+azcopy-johanburati
+prometheus-grok-exporter
+pipe2drive
+cfn-format
+minidlna
+NATs messaging server
+Nextcloud
+vlmcsd
+mysql
+Rocket.Chat Server
+sshpiperd
+oai-spgwu
+postgresql95
+netvirt-agent2
+sync-agent
+keepalived
+deploy-cli
+distrobuilder
+cast-web-api
+crossbar-pypy
+doctl
+robomongo
+uhttpd
+netvfy-agent
+blobporter-johanburati
+cloudmonkey
+FileZilla (UNOFFICIAL)
+kubefed
+amazon-ssm-agent
+mojo
+SMonitor
+kubelet
+Kontena Lens
+barrier-kvm
+yacy-search
+ibdfw
+htop
+janus-gateway
+shell2http
+oai-tracer
+kubernetes-worker
+humioctl
+goaccess-cprov
+Fidus Writer
+kata-containers
+crossbar
+tapyrus-core
+azure-cli-johanburati
+Haste Server
+exoscale-cli
+broker
+Fluent Bit
+oai-cn
+gaia
+routr-server
+oai-spgwc
+keycloak-standalone-spicule
+oai-ran
+openfortivpn
+LXD demo server
+serve
+conjure-up
+mc-server-installer
+nebula
+bigfile
+aws-cli
+Plume
+Grafana
+Easy OpenVPN Server
+https-forward
+fcbtest
+Stubb
+postgresql94
+kube-controller-manager
+terraform-nightly
+tmate-slave
+slcli
+Nectar MOSAIC Installer
+juju
+Google Cloud SDK
+MAAS CLI
+kube-proxy
+XLLMNRD
+tvheadend
+oracle-cloud-agent
+nemu
+monexec
+flexran
+postgresql96
+microstack
+http-to-https
+oai-mme
+Industrial Craft 2 (IC2)
+minikube
+quorum
+dash
+frr (FRRouting)
+The Lounge
+travis-worker
+shadowsocks-libev
+openfortivpn
+UFW
+rfcat-phocean
+tmate-edge
+overpass
+amass
+sectrain
+Word Salad
+net2o
+Nitrokey App
+ssh-audit
+owwatcher
+qShodan
+geewallet
+i2pd
+Axolotl -  A crossplatform signal client
+riseup-vpn
+sshesame
+ares
+KeePassXC
+passwordlocker
+Wickr Enterprise
+Authenticator
+GtkHash
+Brook
+Wickr Pro
+nftables-pk
+keepassx-elopio
+stunnel5
+John the Ripper CE
+gobuster-csal
+Wickr Me - Private Messenger
+vault
+Tor Client
+outline
+volatility-phocean
+tunnel
+zaproxy
+candid
+tpm2-toolbox
+tinc VPN
+cvescan
+Cyph
+ircminer
+sshoot
+mtproxy
+Tor middle relay
+gost
+ibdfw
+MasterpasswordApp CLI
+Easy OpenVPN Server
+ftpscan
+Bitwarden
+1password-linux
+microservicebus-dam
+Verifpal
+ike-qt
+openfortivpn-thementor
+Yubico Authenticator
+xbill
+WireGuard
+d4-goclient
+nmap
+ngrok
+wott-agent
+tncc-script
+easy-openvpn
+Hardware Probe
+squaremetrics-iot-gateway
+Strawberry Music Player
+iiotserviceapi
+guiscrcpy
+rpi-userland-arif-ali
+janus-gateway
+idid
+Lantern Tech - Hunt-R Series Gateway Firmware
+shadowsocks
+unixbench
+Arduino IDE
+adsb-box
+dataclerk
+Vision9 Solar Monitor
+mi-tutorial-leds-joystick
+microservicebus-dam
+Hardware Sensors Indicator
+Garage Door
+AWS IoT Greengrass
+redirect-to
+BTCTools
+openHAB
+gowol
+modem-manager
+ser2net-plars
+MQTT Explorer
+energy-tools
+TelemetryTV Media Player
+mirr.OS one
+S4A - Scratch for Arduino
+openhantek
+domoticz-gm
+v4l2-rtspserver
+Node-RED
+wmbusmeters-test2
+ll-mec
+abeato-usb-modeswitch
+gateway-go
+Cloud Unpacked DynDNS
+nymea:core
+flexran
+soracom-console
+Kiosc
+Raspberry Pi Imager
+Xibo Digital Signage Player
+edgexfoundry
+trx-audio
+Kiosc Editor
+microservicebus-node
+tpm2-tools-alexmurray
+EdgeX InfluxDB Proxy Server
+tio
+ixagent
+origin-routing-machine
+Karuta HLS Compiler
+kubernetes-worker
+nymea:app
+Fluent Bit
+RightPlayer
+Nordic Thingy52 EdgeX Device Service
+velbus-tcp
+natcloud
+oai-ran
+HOMEbridge
+dash
+rigado-cli
+micropython
+Kura™
+WPE WebKit for Mir Kiosk
+loggly-shipper
+janus-plus-gstreamer-plugin
+oai-ue
+UBports Installer
+Little Orange Display
+Nordic Thingy52 Dev Kit
+magic-device-tool
+ObjectBox with EdgeX
+LibrePCB
+Info Center
+stifts-terminal
+Domotz Pro Agent
+huacaya-server
+MQTT X
+Synthesijer - A Java-based HLS compiler
+rtsp-test-server
+cloudfprint
+asunder-casept
+klystrack
+CPod
+trx-audio
+Audio Recorder (UNOFFICIAL)
+infamous
+picard
+Stillac Play
+lyricfier
+Spotify TUI
+gmusic
+somafm
+Musiko
+gsequencer
+YOMP
+Noson
+electron-deezer
+Poddr
+Tizonia
+pulsemixer
+Musixmatch
+radiotray-ng
+odio
+qmmp
+Tauon Music Box
+Audio Looper
+flacon-tabetai
+Strawberry Music Player
+Auryo
+tuxguitar-vs
+dspatcher
+LyricPad
+Discographer
+All Remixes
+YouTube Music Desktop
+PodPublish
+MuseScore
+deepin-music
+Transitions DJ
+magnesium
+Spek
+deepin-voice-recorder
+clementine
+Google Play Music Desktop Player
+fre:ac
+Audovia Classic
+Orange - SoundCloud Client
+Full Discography
+Caster Soundboard
+Ktube Media Downloader
+GSequencer
+foobar2000 (WINE)
+whipper
+Audovia (superseded by Audovia Classic)
+douban-fm
+murg
+Audacity
+Deezer Player Unofficial
+gnome-easytag
+SubMix
+saox
+mir-kiosk-kodi
+pd-ceammc
+Red App - YouTube Client
+Musicarley
+mp3gain
+ncspot
+Astiga
+Entropy-Piano-Tuner
+sayonara
+Violin
+xmdp
+Subsonic
+deadbeef-vs
+kwave
+rkrlv2
+audiobookconverter
+nuclear
+Utube - Complete Youtube App for Linux
+youtube-dl
+RetroArch
+dosage
+saox
+ncspot
+Olaris
+Open Surge
+Ktube Media Downloader
+cornyjokes
+Utube - Complete Youtube App for Linux
+friendsreferee
+yt-dl-server
+Poddr
+Moonlight
+get-iplayer
+sl-doismellburning
+Video Downloader
+cheerlightstree
+Full Discography
+Orange - SoundCloud Client
+QJoyPad
+wisdom
+jarjar
+SickGear
+Open Syobon Action (オープンしょぼんのアクション)
+hollywood
+Ultimate Media Downloader 2
+香港網路廣播平臺
+0 A.D.
+cool-retro-term
+ElectronPlayer
+SuperTux
+SameBoy
+magic8ball
+niki
+Ultimate Media Downloader
+shetech-sweetstyle
+terminal-parrot
+nuclear
+music-kitten
+ePSXe
+love
+gydl
+OS RuneScape Launcher
+libreflix-desktop
+Red App - YouTube Client
+waifu2x-ncnn-vulkan
+gravit-designer
+fbostudios
+Boxy SVG
+figma-linux
+Natron
+freecad
+texpackhelper
+AniTuner (WINE)
+paintsupreme-3d
+Pencilsheep
+laidout
+ultimo
+Darktable
+Colorpicker
+Akira
+meshlab
+CNC Designer
+bobrossquotes
+Vectr
+Titania X3D Editor
+Blender
+pixelorama
+OpenToonz
+wdune
+SolveSpace
+OpenToonz - Morevna Edition
+blender-tpaw
+Mini Diary
+PhotoGIMP
+clari3d-lite-64
+Sweet Home 3D
+mtpaint-casept
+dosage
+HDRView
+goxel
+Krita
+kolourpaint
+Mockuuups Studio
+TdhCad
+Curv
+openscad-nightly
+fallen-leaves
+Gifcurry
+AniFX (WINE)
+agave-colorscheme
+PhotoScape
+Inkscape
+KCalc
+Observer core (obsr)
+Atani
+ExpenseSentry
+emercoin-tpaw
+Innova
+CODAv
+finner
+electroneum
+TastyWorks trading platform (Unofficial)
+Simple Budget
+City Hub
+BitTicker
+Bisq
+solium
+vizd
+Monero XMR miner GUI
+eFIN Dex (Testnet)
+GNOME Calculator
+namecoin
+gnucash-jz
+cryptowatch-myl0g
+arqma-electron-wallet
+Copay
+Moneydance
+keybase
+mmex
+BitPay
+Eldarya Tax Calculator
+Sirius Tracker
+Rupaya
+joinmarket
+cmars-monero
+GDAX Trading Bot
+fetch-btc
+eFIN Dex
+proton-wallet
+safex-wallet
+lindacoin-wallet
+litecoin-core
+NanoWallet
+bunqDesktop
+Grin
+geewallet
+restic
+bitcoin-core
+XBTS DEX Exchange Desktop
+monero
+BitShares Wallet
+cointop
+Ion Digital Currency (Official release)
+deeponion
+ClinicaFX
+Monento
+lite
+neutroncoin-wallet
+Bitcoin Confidential
+qalculate-jz
+Supercalc-Snap
+Contractor Tax Calculator
+reden
+SimplEOS Wallet
+israeli-bank-scrapers-desktop
+minter-console-web
+bithousewallet
+slate
+Qalculate!
+cryptoinfo
+groestlcoin-core
+Net Worth
+ZeroNet
+PIVX Core
+parity-ethereum
+wagerr
+electrum
+znode
+hledger-jak
+ioncoin-ce
+Denarius
+namecoin-legacy
+vestin
+tokenpayd
+syscoin-core
+Skrooge
+waitrpos
+peerunity-tpaw
+currate
+loopchain
+bot18
+banana-accounting
+Amoveo Wallet
+creativecoin
+eqonomize-hk
+loanbook
+yandex-weather-cli
+Sunwait
+Observer core (obsr)
+rssnotify
+phoronix-news
+Meteo
+wethr
+Sirius Tracker
+breader
+AlArabiya
+Raven Reader
+Halo - The Weather App
+Newsboat
+rssepisodeextractor
+julia
+ctint-science
+stellarium-daily
+pymol-oss
+kmplot
+adtl
+Atomify LAMMPS
+Webots
+SDRangel
+Hopsan
+gnss-sdr-next
+truthtables
+morse-encode-and-decode
+KAlgebra
+DSSIM
+MiniZinc
+libfolding
+engauge-digitizer
+Pocket Science Lab
+TdhGIS
+cantor
+qgsrepo
+ChiSurf
+ConfID: Conformational Identifier
+stellarium-plars
+teselagen
+Sunwait
+TAPAAL
+Rigs of Rods
+superperms
+Qalculate!
+nteract
+xsamkit
+pyresistors
+molden
+Folding@Home
+bitwise
+libspot
+lxi-tools
+tdhnet
+Netron
+Open Babel
+gigi2
+adsb-box
+functy
+epitopepredict
+yacas
+labplot
+mitk
+step
+serialporttool
+kfit
+easyDiffraction
+timeline
+Project Jupyter
+ngraph-gtk-htrb
+termtrack
+philosopher
+GNU Octave
+mesmerize
+Verifpal
+dataexplore
+julia-mrcinv
+tdhgisnet
+JabRef
+OpenMapper
+smallrnaseq
+sirrujak-sciencefair
+iraspa
+PoseCalib
+dspatcher
+Catalyst Live
+Diet Clock
+hranoprovod-cli
+pray
+SaudeFX
+TopCorridaFX
+byspectra
+aldo
+kig
+pyresistors
+kanagame
+klettres
+Codeforces Reminder
+Learnit
+kalzium
+Udemy
+kfit
+gcompris
+morse-encode-and-decode
+Folding@Home
+Blur Network Command-Line Tools
+Sololearn
+VisualG
+OOP Exercises
+TopCorridaFX
+MicroPad
+Grades Panhellenic
+ConfID: Conformational Identifier
+MCQ Pulzion
+Qstamina - Typing tutor (репетитор)
+QOwnNotes
+Scratux
+sectrain
+prosakart
+SaudeFX
+PyPLANE
+Pocket Science Lab
+artikulate
+dataexplore
+sugarizer
+easyDiffraction
+gnss-sdr-next
+Blur Network Graphical Wallet
+School Rank
+TestApp
+Anki - unofficial
+S4A - Scratch for Arduino
+kiwix-tools
+Heb12 Bible
+Cheminot
+kgeography
+exercism
+DrMIPS
+LaTeXML
+KBruch
+wyzepal
+csBooks - A Smart Book Manager
+solidcalculator
+parley
+BibleTime
+KTurtle
+FlightGear
+Overleaf Desktop
+WPS Office Suite - MTS
+chameleon
+Neuronify
+minuet
+tmcbeans
+XMind
+LBRY
+pymol-oss
+Dino
+Hopsan
+Khmer Typing
+Smart File Renamer
+Easy Disk Cleaner
+ubuntu-budgie-welcome
+WallpaperDownloader
+Easy File Organizer
+Wonderwall - Wallpaper Manager
+chezmoi
+BingWall - Bing wallpaper of the day
+sweeper
+LXQt-l10n-snap (unofficial)
+Organize My Files
+egmde
+auto-cpufreq
+Snap Store
+Discographer
+Disk Space Saver
+US Constitution
+baugeschichte
+OpenComic
+Foliate
+cli-worm
+yd
+mdbook
+scantailor-advanced
+zotero-snap
+Heb12 Bible
+ebook2cw
+Olam
+中华古籍
+Kdictionary - Dictionary Suite
+howdoi
+qcomicbook
+breader
+موسوعة الراية للقانون والفقة والقضاء
+mcomix-tabetai
+htmldoc
+goldendictionary
+Buka
+Islam Companion
+GNOME Dictionary
+csBooks - A Smart Book Manager
+kiten
+wonder-reader
+tldr-luk3yx
+Polar - Manager for books, PDFs and web
+peruse
+tldr
+{OpenGrok
+Bolls
+BibleTime
+oman
