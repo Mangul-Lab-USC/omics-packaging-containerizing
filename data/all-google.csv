@@ -1,0 +1,16 @@
+﻿Name,Google Scholar Results,Citations,Trends,Pubmed Results,Number of Packages
+Bioconda,335,105,4.34482759,33,6819
+Biolinux,738,156,0,7,0
+Easybuild,750,22,0,0,1808
+GNU Guix,109,12,0,3,9789
+Spack ,1290,49,0,1,2907
+Homebrew,64,7,0,0,251
+Vagrant ,2910,0,8.19157088,0,0
+Docker,0,0,60.11111111,548,0
+Singularity,0,0,0,0,0
+pip,0,0,14.2681992,0,186000
+APT,0,0,12.4597701,0,51000
+yum,0,0,9.72157479,0,0
+CRAN,0,0,0,717,16200
+Bioconductor,69200,736,0.58655121,0,1742
+ZeroInstall,0,0,0,0,2212

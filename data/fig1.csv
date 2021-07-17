@@ -1,0 +1,15 @@
+Name,Year,Type
+Bioconda,2015,package manager
+pip,2008,package manager
+APT,1998,package manager
+Easybuild,2012,package manager
+GNU Guix,2013,package manager
+linuxbrew,2009,package manager
+Spack,2013,package manager
+yum,1999,package manager
+CRAN,1993,package manager
+Bioconductor,2001,package manager
+Zero Install,2019,package manager
+Docker,2013,container
+Vagrant,2010,container
+Singularity,2016,container
